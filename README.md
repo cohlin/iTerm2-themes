@@ -1,2 +1,5 @@
 # iTerm2-themes
-iTerm2 color themes
+
+Themes
+------
+- **Edocx.itermcolors**
